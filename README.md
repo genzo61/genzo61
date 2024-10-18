@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Falitech.io%2Fblog%2Fartificial-intelligence-understand%2F&psig=AOvVaw2EsXlSLbGCFCb3qAG_5DYP&ust=1729374150899000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDVnPTymIkDFQAAAAAdAAAAABAJ)
+ [![MasterHead]("https://www.google.com/url?sa=i&url=https%3A%2F%2Falitech.io%2Fblog%2Fartificial-intelligence-understand%2F&psig=AOvVaw2EsXlSLbGCFCb3qAG_5DYP&ust=1729374150899000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDVnPTymIkDFQAAAAAdAAAAABAJ")
 <h1 align="center">Hi 👋, I'm Ali Haydar</h1>
 <h3 align="center">Computer Vision and Artificial Intelligent Developer</h3>
 
